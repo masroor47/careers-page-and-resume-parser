@@ -10,7 +10,7 @@ export default function NavBar() {
       </div>
 
       <ul className="flex items-center h-full mr-2">
-        <li className='h-full flex items-center p-2'><Link href='./apply'>Apply</Link></li>
+        <li className='h-full flex items-center p-2'><Link href='./jobs'>Students</Link></li>
         <li className='h-full flex items-center p-2'><Link href='./dashboard'>Dashboard</Link></li>
       </ul>
       
