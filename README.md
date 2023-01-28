@@ -4,8 +4,9 @@ This is my resume parser project. It's made with Next.js, TypeScript, TailwindCS
 
 ### Web App
 
-The app has two pages: one for applicants and one for recruiters.
-
+The app has the following pages: welcome page, job openings list page, individual application page and the dashboard for recruiters.
+### Open Positions
+This page shows a list of all open positions with the title and brief description of the position.
 ### Apply
 On the "Apply" page you can complete a form and submit their resume (only .txt files for now lol).
 ### Dashboard
