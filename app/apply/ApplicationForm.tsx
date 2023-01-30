@@ -13,7 +13,7 @@ export default function ApplicationForm() {
         <div className="w-52 py-1">
           <label >Resume</label>
         </div>
-          <input className="ml-4" type="file" /> 
+          <input className="ml-4" type="file" id="resume"/> 
           {/* <input className="border-2 border-blue-300 rounded-sm px-2" type="text" name="" id="" />     */}
       </div>
 
